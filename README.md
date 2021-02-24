@@ -10,6 +10,7 @@ https://www.katacoda.com/courses/nodejs/playground
 
 
 Realmente el lenguaje que tengo mas experiencia es JS, pero con Python es mucho mas facil trabajar este tipo de ejercicios.
+
 Nota: Los datos de entrada en el programa de JS hay que introducirlos linea por linea.
 
 Utilicé:
